@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-05-21 12:09:43
 ---
-Of all the organs in our body, the most complex one is our brain. It is the master control center of our body. It is way too complex than any neural network built by humans. The recent google voice duplex <a href="https://www.youtube.com/watch?v=bd1mEm2Fy08&amp;t=60" rel="noopener" target="_blank">trying to talk like a human</a> is vastly inferior to our human brain.
+<img src="https://blog.expertrec.com/wp-content/uploads/2018/05/There-is-nothing-in-this-world-that-can-trouble-you-as-much-as-your-own-thoughts.-There-is-nothing-in-this-world-that-can-trouble-you-as-much-as-your-own-thoughts..jpg" alt="There-is-nothing-in-this-world-that-can-trouble-you-as-much-as-your-own-thoughts.-There-is-nothing-in-this-world-that-can-trouble-you-as-much-as-your-own-thoughts." width="1200" height="1200" class="alignnone size-full wp-image-1391" />Of all the organs in our body, the most complex one is our brain. It is the master control center of our body. It is way too complex than any neural network built by humans. The recent google voice duplex <a href="https://www.youtube.com/watch?v=bd1mEm2Fy08&amp;t=60" rel="noopener" target="_blank">trying to talk like a human</a> is vastly inferior to our human brain.
 
 In this blog, I would like to mention few of the simple things we can do to improve our mental health.
 
