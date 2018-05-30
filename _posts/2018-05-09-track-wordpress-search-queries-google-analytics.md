@@ -1,7 +1,7 @@
 ---
 ID: 1323
 post_title: >
-  How to track worpdress search queries
+  How to track wordpress search queries
   using Google analytics
 author: muthali ganesh
 post_excerpt: ""
