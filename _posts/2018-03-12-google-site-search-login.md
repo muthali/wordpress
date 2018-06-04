@@ -9,7 +9,13 @@ permalink: >
 published: true
 post_date: 2018-03-12 17:45:05
 ---
-To login to your google site search, go to <a href="https://enterprise.google.com/search/products/gss.html">https://enterprise.google.com/search/products/gss.html</a>. Since Google site search is shutting down, you might not be able to find a usable login button. You could opt for google custom search.<img src="https://blog.expertrec.com/wp-content/uploads/2018/03/google-site-search.png" alt="google site search login" width="1021" height="579" class="alignnone size-full wp-image-1005" />
+To login to your google site search, go to <a href="https://enterprise.google.com/search/products/gss.html">https://enterprise.google.com/search/products/gss.html</a>.
+
+Since Google site search is shutting down, you might not be able to find a usable login button. You could opt for google custom search.
+
+To sign in to google custom search, go to this link - <a href="https://www.google.com/cse/">https://www.google.com/cse/</a>
+
+<img src="https://blog.expertrec.com/wp-content/uploads/2018/03/google-site-search.png" alt="google site search login" width="1021" height="579" class="alignnone size-full wp-image-1005" />
 
 Google custom search is a easy replacement to Google site search, but contains ads. To login or create a account at Google custom search, you can visit <a href="https://www.google.co.in/cse/">https://www.google.co.in/cse/</a> .
 
