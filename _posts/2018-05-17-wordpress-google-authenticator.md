@@ -31,7 +31,7 @@ Create an account with miniorange
 
 <span>Now go to </span><strong>setup two factor</strong><span> tab and click on google authenticator</span><img src="https://blog.expertrec.com/wp-content/uploads/2018/05/4-1.jpg" alt="wordpress google authenticator" width="838" height="550" class="alignnone wp-image-1544 size-full" />
 
-<span>Select your phone type -&gt;download Google authenticator app-&gt;from playstore-&gt; scan QR code and enter OTP</span><img src="https://blog.expertrec.com/wp-content/uploads/2018/05/5-1.jpg" alt="wordpress google authenticator" width="925" height="565" class="alignnone wp-image-1545 size-full" />
+<span>Select your phone type -&gt;download Google authenticator app-&gt;from playstore-&gt; scan QR code and enter OTP</span>
 
 &nbsp;
 
