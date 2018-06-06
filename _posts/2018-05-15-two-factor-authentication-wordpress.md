@@ -37,7 +37,7 @@ Now go to <strong>setup two factor</strong> tab and click on google authenticato
 
 Select your phone type -&gt;download Google authenticator app-&gt;from playstore-&gt; scan QR code and enter OTP
 
-<img src="https://blog.expertrec.com/wp-content/uploads/2018/05/5.jpg" alt="two factor authentication wordpress" width="925" height="565" class="alignnone wp-image-1495 size-full" /><img src="https://blog.expertrec.com/wp-content/uploads/2018/05/6.jpg" alt="two factor authentication wordpress" width="720" height="598" class="alignnone wp-image-1496 size-full" />
+<img src="https://blog.expertrec.com/wp-content/uploads/2018/05/6.jpg" alt="two factor authentication wordpress" width="720" height="598" class="alignnone wp-image-1496 size-full" />
 
 <img src="https://blog.expertrec.com/wp-content/uploads/2018/05/7-169x300.jpg" alt="two factor authentication wordpress" width="169" height="300" class="aligncenter wp-image-1497 size-medium" />
 
