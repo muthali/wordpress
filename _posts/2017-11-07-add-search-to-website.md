@@ -62,7 +62,7 @@ Three steps involved in adding expertrec site search from -
  	<li><em>Add code to website.</em></li>
  	<li><em>Take live.</em></li>
 </ol>
-<img class="wp-image-744  aligncenter" src="https://blog.expertrec.com/wp-content/uploads/2017/11/csedemo.gif" alt="add search to website" width="680" height="400" />
+<img class="wp-image-744 aligncenter" src="https://blog.expertrec.com/wp-content/uploads/2017/11/csedemo.gif" alt="add search to website" width="680" height="400" />
 
 <img src="https://blog.expertrec.com/wp-content/uploads/2017/11/psi-768x453.png" alt="add search to website" width="768" height="453" class="alignnone wp-image-1699 size-full" />
 
