@@ -11,7 +11,7 @@ permalink: >
 published: true
 post_date: 2017-10-15 09:09:45
 ---
-How to enable magento google analytics ecommerce tracking in 7 easy ways ?Google analytics is a useful free tool to do a bunch of important stuff like monitoring important metrics on your magento store like traffic, conversion rates, Lifetime value, doing A/B tests and e-commerce data tracking.
+How to enable magento google analytics ecommerce tracking in 7 easy steps ?Google analytics is a useful free tool to do a bunch of important stuff like monitoring important metrics on your magento store like traffic, conversion rates, Lifetime value, doing A/B tests and e-commerce data tracking.
 <p style="text-align: center;">[inbound_button font_size="20" color="#c8232b" text_color="#ffffff" icon="" url="https://magento.expertrec.com/signup" width="" target="_blank"]Sign Up[/inbound_button]</p>
 <strong>Steps to add Google analytics to your magento store-</strong>
 <ol>
