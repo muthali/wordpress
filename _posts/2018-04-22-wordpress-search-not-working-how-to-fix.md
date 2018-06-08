@@ -16,6 +16,7 @@ Let's face it- the default wordpress search is not great. If your wordpress sea
  	<li>wordpress search results page is not loading after user entered search query.</li>
  	<li>wordpress search is not returning certain posts in search results.</li>
 </ol>
+<p style="text-align: center;">[inbound_button font_size="20" color="#c8232b" text_color="#ffffff" icon="" url="https://cse.expertrec.com?platform=cse" width="" target="_blank"]Create wordpress search engine[/inbound_button]</p>
 In this article we will discuss on how to fix this issue without writing any code.
 
 Here are steps to fix your wordpress search not working issue-
