@@ -10,7 +10,7 @@ published: true
 post_date: 2018-03-12 10:25:05
 ---
 Google custom search vs site search- Given that google site search is shutting down and all google site search accounts will be converted into google custom search, you might be looking to know about the differences between both these products. Here are some key differences between google custom search and google site search.
-<p style="text-align: center;">[inbound_button font_size="20" color="#c8232b" text_color="#ffffff" icon="" url="https://cse.expertrec.com/?platform=cse" width="" target="_blank"]Custom search engine sign up[/inbound_button]</p>
+<p style="text-align: center;">[inbound_button font_size="20" color="#c8232b" text_color="#ffffff" icon="" url="https://cse.expertrec.com/?platform=cse" width="" target="_blank"]Create your Custom search engine [/inbound_button]</p>
 Here is an image that showcases the key differences-
 
 <img src="https://blog.expertrec.com/wp-content/uploads/2018/03/google-custom-search-vs-google-site-search.jpg" alt="Google custom search vs site search" width="426" height="625" class="aligncenter wp-image-996 size-full" />
@@ -43,4 +43,4 @@ Main differences between Google custom search (GCS) and site search (GSS)-
 Now the big question- Which one should you go for? The answer is simple, if you are ok with ads, you can go for Google custom search. Moving to google site search is not an option since it is shutting down, but you could move to other search providers such as <a href="https://blog.expertrec.com/google-site-search-alternative/" target="_blank" rel="noopener">expertrec</a> that provide ad free search results for a nominal monthly fee. Here is a custom implementation on PSIcompany.
 
 <img src="https://blog.expertrec.com/wp-content/uploads/2018/03/psi.png" alt="google custom search vs site search" width="1352" height="798" class="alignnone size-full wp-image-1000" />
-<p style="text-align: center;">[inbound_button font_size="20" color="#c8232b" text_color="#ffffff" icon="" url="https://cse.expertrec.com/?platform=cse" width="" target="_blank"]Custom search engine sign up[/inbound_button]</p>
+<p style="text-align: center;">[inbound_button font_size="20" color="#c8232b" text_color="#ffffff" icon="" url="https://cse.expertrec.com/?platform=cse" width="" target="_blank"]Create your Custom search engine [/inbound_button]</p>
