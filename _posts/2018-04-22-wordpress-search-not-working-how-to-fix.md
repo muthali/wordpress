@@ -74,3 +74,4 @@ add_action( 'widgets_init', 'remove_search_widget' );
  	<li>Your brand new wordpress search is up and running! Here are snapshots of the search form and the search results pages.</li>
  	<li><img src="https://blog.expertrec.com/wp-content/uploads/2018/04/search-ui.png" alt="wordpress search not working" width="992" height="640" class="aligncenter wp-image-1218 size-full" /><img src="https://blog.expertrec.com/wp-content/uploads/2018/04/search-demo.png" alt="wordpress search not working" width="1334" height="641" class="aligncenter wp-image-1217 size-full" /></li>
 </ol>
+<p style="text-align: center;">[inbound_button font_size="20" color="#c8232b" text_color="#ffffff" icon="" url="https://cse.expertrec.com?platform=cse" width="" target="_blank"]Create wordpress search engine[/inbound_button]</p>
