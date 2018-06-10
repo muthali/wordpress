@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-03-12 17:45:05
 ---
-<span>Add great site search to your website. </span><em>Sign in</em><span> to </span><em>Custom Search</em><span> Engine at <a href="https://cse.expertrec.com?platfomr=cse" target="_blank" rel="noopener">https://cse.expertrec.com?platform=cse</a>. With </span><em>expertrec custom Search</em><span>, add a </span><em>search</em><span> box to your homepage to help people find what they are searching for.</span>
+<span>Add great site search to your website. </span><em>Sign in</em><span> to </span><em>Custom Search</em><span> Engine at <a href="https://cse.expertrec.com?platfomr=cse" target="_blank" rel="noopener">https://cse.expertrec.com?platform=cse</a>. With </span><em>expertrec custom Search</em><span>, add a </span><em>search</em><span> box to your homepage to help people find what they are searching for. <em>Google</em> has discontinued sale/renewal of the <em>Google Site Search</em> since Apr 1 2017. The product will be completely shut down by April 1, 2018.</span>
 
 To login to your google site search, go to <a href="https://enterprise.google.com/search/products/gss.html">https://enterprise.google.com/search/products/gss.html</a>.
 
@@ -21,7 +21,7 @@ To sign in to google custom search, go to this link - <a href="https://www.goog
 
 Google custom search is a easy replacement to Google site search, but contains ads. To login or create a account at Google custom search, you can visit <a href="https://www.google.co.in/cse/">https://www.google.co.in/cse/</a> .
 
-<img src="https://blog.expertrec.com/wp-content/uploads/2018/03/google-custom-search.png" alt="google site search login" width="1035" height="680" class="alignnone size-full wp-image-1006" />
+<img src="https://blog.expertrec.com/wp-content/uploads/2018/03/google-custom-search.png" alt="google site search login" width="1035" height="680" class="size-full wp-image-1006 aligncenter" />
 
 Expertrec custom search engine is a great alternative to Google site search and offers more features in addition to Google site search. Here are a list of features-
 <ol>
