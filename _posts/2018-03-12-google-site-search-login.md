@@ -9,13 +9,15 @@ permalink: >
 published: true
 post_date: 2018-03-12 17:45:05
 ---
+<span>Add great site search to your website. </span><em>Sign in</em><span> to </span><em>Custom Search</em><span> Engine at <a href="https://cse.expertrec.com?platfomr=cse" target="_blank" rel="noopener">https://cse.expertrec.com?platform=cse</a>. With </span><em>expertrec custom Search</em><span>, add a </span><em>search</em><span> box to your homepage to help people find what they are searching for.</span>
+
 To login to your google site search, go to <a href="https://enterprise.google.com/search/products/gss.html">https://enterprise.google.com/search/products/gss.html</a>.
 
 Since Google site search is shutting down, you might not be able to find a usable login button. You could opt for google custom search.
 
 To sign in to google custom search, go to this link - <a href="https://www.google.com/cse/">https://www.google.com/cse/</a>
 
-<img src="https://blog.expertrec.com/wp-content/uploads/2018/03/google-site-search.png" alt="google site search login" width="1021" height="579" class="alignnone size-full wp-image-1005" />
+<img src="https://blog.expertrec.com/wp-content/uploads/2018/03/google-site-search.png" alt="google site search login" width="1021" height="579" class="size-full wp-image-1005 aligncenter" />
 
 Google custom search is a easy replacement to Google site search, but contains ads. To login or create a account at Google custom search, you can visit <a href="https://www.google.co.in/cse/">https://www.google.co.in/cse/</a> .
 
