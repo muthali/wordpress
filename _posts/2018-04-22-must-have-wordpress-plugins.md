@@ -1,6 +1,6 @@
 ---
 ID: 1190
-post_title: '10 Must have wordpress plugins- Look no futher'
+post_title: 'Must have wordpress plugins- Exhaustive list'
 author: muthali ganesh
 post_excerpt: ""
 layout: post
@@ -9,6 +9,8 @@ permalink: >
 published: true
 post_date: 2018-04-22 08:44:39
 ---
+Here are must have wordpress plugins that can help run your wordpress site optimally in all aspects - speed, seo friendly, customer experience, security, html design of pages, tag management and image optimization.
+
 If you have just started your wordpress website, you might be wondering what are the must have plugins for wordpress. Having a lot of plugins can slow down your wordpress site. So it is essential that you install only the most needed plugins. Here the plugins that I have found the most useful.
 <ol>
  	<li><a href="https://yoast.com/https://yoast.com/" target="_blank" rel="noopener"><strong>Yoast Seo</strong></a> - If you are beginner blogger and looking to write seo friendly articles, yoast seo plugin can give you a head start in writing articles that come up in search engines. Just follow the steps given in yoast and you are good. to getting traffic. This is a free plugin.<img src="https://blog.expertrec.com/wp-content/uploads/2018/04/yoast.jpg" alt="" width="619" height="588" class="size-full wp-image-1192 aligncenter" /></li>
