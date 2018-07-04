@@ -14,7 +14,7 @@ post_date: 2018-07-03 17:49:25
 The default magento search engine is not that great. A custom search engine can help you surface the right products to your customers on your magento store. It also helps in reducing the time for product discovery.
 
 In this article we will see how to create a magento custom search engine for a magento store (cosjj.com) using expertrec, google custom search and duckduckgo custom search.
-<h3><strong>Option 1 - Using <a href="https://cse.expertrec.com?platform=cse" target="_blank" rel="noopener">expertrec</a> to build a magento custom search - Paid ( 9 USD per month+) No ads</strong></h3>
+<h3><strong>Using <a href="https://cse.expertrec.com?platform=cse" target="_blank" rel="noopener">expertrec</a> to build a magento custom search engine- Price ( 9 USD per month+) No ads</strong></h3>
 Here are steps-
 <ol>
  	<li><strong>Go to  <a href="https://cse.expertrec.com?platform=cse" target="_blank" rel="noopener">https://cse.expertrec.com?platform=cse</a> </strong></li>
