@@ -21,18 +21,23 @@ Here are steps-
  	<li><strong>Sign in with your gmail id.</strong><img src="https://blog.expertrec.com/wp-content/uploads/2018/07/mixmax1-1.png" alt="magento custom search" width="566" height="222" class="wp-image-1815 aligncenter" /></li>
  	<li><strong>Enter the website url of your magento site</strong> <strong>and choose your nearest server location</strong>.<img src="https://blog.expertrec.com/wp-content/uploads/2018/07/mixmax2-1.png" alt="magento custom search" width="565" height="301" class="aligncenter wp-image-1816" /></li>
  	<li><strong>By now crawl should have started for your site</strong>. Get the code and add it to your magento site. Get your developer help if needed. <img src="https://blog.expertrec.com/wp-content/uploads/2018/07/magento-custom-search-code.png" alt="magento custom search " width="520" height="389" class="aligncenter wp-image-1823" /></li>
- 	<li><strong>Replace your magento search box form with expertrec search boc</strong>-<span><span>The template for Magento search box can be found at app/design/frontend/base/default/template/catalogsearch/form.mini.phtml. We will customize this so it will call expertrec search results when a search query is entered. Replace the following code with the code you copied from <a href="https://cse.expertrec.com?platform=cse" target="_blank" rel="noopener">expertrec's control panel</a>. </span></span>
+ 	<li><strong>Replace your magento search box form with expertrec search boc</strong>-<span><span>The template for Magento search box can be found at app/design/frontend/base/default/template/catalogsearch/form.mini.phtml. We will customize this so it will call expertrec search results when a search query is entered. Replace the following code with the code you copied from <a href="https://cse.expertrec.com?platform=cse" target="_blank" rel="noopener">expertrec's control panel</a>.  </span></span><span><span>Replace</span></span>
 <pre>&lt;form id="search_mini_form" action="&lt;?php echo $this-&gt;helper('catalogsearch')-&gt;getResultUrl() ?&gt;" method="get"&gt;
 &lt;div class="form-search"&gt;
 &lt;label for="search"&gt;&lt;!--?php echo $this---&gt;__('Search:') ?&gt;&lt;/label&gt;
 &lt;input id="search" class="input-text" name="&lt;?php echo $this-&gt;helper('catalogsearch')-&gt;getQueryParamName() ?&gt;" type="text" value="&lt;?php echo $this-&gt;helper('catalogsearch')-&gt;getEscapedQueryText() ?&gt;"&gt;
 &lt;button class="button" title="&lt;?php echo $this-&gt;__('Search') ?&gt;"&gt;&lt;span&gt;&lt;span&gt;&lt;!--?php echo $this---&gt;__('Search') ?&gt;&lt;/span&gt;&lt;/span&gt;&lt;/button&gt;
 &lt;script type="text/javascript"&gt;&lt;/script&gt;&lt;/div&gt;
-&lt;/form&gt;</pre>
-<div class="line number1 index0 alt2"><strong style="font-family: Roboto, Helvetica, Arial, sans-serif;"></strong></div></li>
+&lt;/form&gt;
+
+with 
+
+</pre>
+<div class="line number1 index0 alt2"><strong style="font-family: Roboto, Helvetica, Arial, sans-serif;"></strong></div>
+<img src="https://blog.expertrec.com/wp-content/uploads/2018/07/magento-custom-search-code.png" alt="magento custom search " width="520" height="389" class="aligncenter wp-image-1823" /></li>
  	<li>
-<div class="line number1 index0 alt2"><strong style="font-family: Roboto, Helvetica, Arial, sans-serif;">That's it, you have added custom search to your magento site</strong><span style="font-family: Roboto, Helvetica, Arial, sans-serif;">. You can monitor crawl status and edit look and feel of the search UI in your control panel.</span></div></li>
- 	<li><img src="https://blog.expertrec.com/wp-content/uploads/2018/07/mixmax-dashboard.png" alt="￼magento custom search" width="594" height="241" class="aligncenter wp-image-1819" /></li>
+<div class="line number1 index0 alt2"><strong style="font-family: Roboto, Helvetica, Arial, sans-serif;">That's it, you have added custom search to your magento site</strong><span style="font-family: Roboto, Helvetica, Arial, sans-serif;">. You can monitor crawl status and edit look and feel of the search UI in your control panel.</span>
+<img src="https://blog.expertrec.com/wp-content/uploads/2018/07/mixmax-dashboard.png" alt="￼magento custom search" width="594" height="241" class="aligncenter wp-image-1819" /></div></li>
 </ol>
 Here is a screenshot of the search autocomplete UI.<img src="https://blog.expertrec.com/wp-content/uploads/2018/07/avengers-1.png" alt="magento custom search" width="592" height="531" class="aligncenter wp-image-1818 size-full" />
 
