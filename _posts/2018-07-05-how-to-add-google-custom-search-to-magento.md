@@ -24,8 +24,7 @@ Here are steps to create a magento google custom search engine -
  	<li><strong>Click on "get code"</strong> .<img src="https://blog.expertrec.com/wp-content/uploads/2018/07/gcse3.png" alt="magento google custom search" width="662" height="380" class="aligncenter wp-image-1840" /></li>
  	<li><strong>Copy the code-</strong><img src="https://blog.expertrec.com/wp-content/uploads/2018/07/gcse4.png" alt="magento google custom search" width="568" height="428" class="aligncenter wp-image-1841 size-full" /></li>
  	<li><strong>Replace the magento search box code with Google custom search box code. </strong> For this step you might need the help of your deveoper. <span><span><span><span>The template for Magento search box can be found at <em>app/design/frontend/base/default/template/catalogsearch/form.mini.phtml</em>. We will change this so it will call the google search code. Change this from:</span></span></span></span>
-<pre>
-&lt;form id="search_mini_form" action="&lt;?php echo $this-&gt;
+<pre>&lt;form id="search_mini_form" action="&lt;?php echo $this-&gt;
 helper('catalogsearch')-&gt;getResultUrl() ?&gt;" method="get"&gt;
 &lt;div class="form-search"&gt;
 &lt;label for="search"&gt;&lt;!--?php echo $this---&gt;__('Search:') ?&gt;&lt;/label&gt;
@@ -35,11 +34,11 @@ helper('catalogsearch')-&gt;getResultUrl() ?&gt;" method="get"&gt;
 &lt;img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-wp-preserve="%3Cscript%20type%3D%22text%2Fjavascript%22%3E%3C%2Fscript%3E" data-mce-resize="false" data-mce-placeholder="1" class="mce-object" width="20" height="20" alt="&amp;lt;script&amp;gt;" title="&amp;lt;script&amp;gt;" /&gt;&lt;/div&gt;
 
 
-&lt;/form&gt;
+&lt;/form&gt;</pre>
 
-[php]
+[html]
 echo $this;
-[/php]
+[/html]
 
 to the code that you copied from Google custom search control panel</li>
  	<li><strong>That's it!</strong> you have added google custom search to your magento store. Here are some screenshots of the search user interface which you can further change from your control panel. Here is a <a href="https://cse.google.com/cse/create/getcode?cx=012278024424817052234%3Aocuhgvaknyy" target="_blank" rel="noopener">demo link</a> built on the data of cosjj ( a magento store).<img src="https://blog.expertrec.com/wp-content/uploads/2018/07/gcse5.png" alt="magento google custom search" width="935" height="522" class="alignnone wp-image-1842 size-full" /></li>
