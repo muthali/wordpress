@@ -14,4 +14,7 @@ post_date: 2018-07-05 13:52:13
 [php]Is this good &lt;?php echo &quot;hai&quot;&gt;[/php]
 
 [php]&lt;?php echo &quot;hai&quot;; ?&gt;
-&lt;?php echo &quot;hai&quot;; ?&gt;[/php]
+&lt;?php echo &quot;hai&quot;; ?&gt;[/php]<code></code>
+
+<pre class="lang:php decode:true" title="Testing"><?php echo "hai"; ?>
+<?php echo "hai"; ?></pre>
