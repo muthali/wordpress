@@ -17,30 +17,20 @@ The only issue is that Google custom search has ads . If you are looking for an 
 
 Here are steps to create a magento google custom search engine -
 <ol>
- 	<li style="list-style-type: none">
+ 	<li style="list-style-type: none;">
 <ol>
- 	<li><strong>Go to <a href="https://cse.google.com/cse/create/new" target="_blank" rel="noopener">https://cse.google.com/cse/create/new</a></strong>
-
-[caption id="attachment_1838" align="aligncenter" width="627"]<img src="https://blog.expertrec.com/wp-content/uploads/2018/07/gcse1.png" alt="magento google custom search" width="627" height="293" class="wp-image-1838" /> magento google custom search[/caption]</li>
- 	<li><strong>Enter your magento website URL and click on create- </strong>
-
-[caption id="attachment_1839" align="aligncenter" width="635"]<img src="https://blog.expertrec.com/wp-content/uploads/2018/07/gcse2.png" alt="magento google custom search" width="635" height="523" class="wp-image-1839" /> magento google custom search[/caption]</li>
- 	<li><strong>Click on "get code"</strong> .
-
-[caption id="attachment_1840" align="aligncenter" width="662"]<img src="https://blog.expertrec.com/wp-content/uploads/2018/07/gcse3.png" alt="magento google custom search" width="662" height="380" class="wp-image-1840" /> magento google custom search[/caption]</li>
- 	<li><strong>Copy the code-</strong>
-
-[caption id="attachment_1841" align="aligncenter" width="568"]<img src="https://blog.expertrec.com/wp-content/uploads/2018/07/gcse4.png" alt="magento google custom search" width="568" height="428" class="wp-image-1841 size-full" /> magento google custom search[/caption]</li>
+ 	<li><strong>Go to <a href="https://cse.google.com/cse/create/new" target="_blank" rel="noopener">https://cse.google.com/cse/create/new</a></strong><img src="https://blog.expertrec.com/wp-content/uploads/2018/07/gcse1.png" alt="magento google custom search" width="627" height="293" class="aligncenter wp-image-1838" /></li>
+ 	<li><strong>Enter your magento website URL and click on create- </strong><img src="https://blog.expertrec.com/wp-content/uploads/2018/07/gcse2.png" alt="magento google custom search" width="635" height="523" class="aligncenter wp-image-1839" /></li>
+ 	<li><strong>Click on "get code"</strong> .<img src="https://blog.expertrec.com/wp-content/uploads/2018/07/gcse3.png" alt="magento google custom search" width="662" height="380" class="aligncenter wp-image-1840" /></li>
+ 	<li><strong>Copy the code-</strong><img src="https://blog.expertrec.com/wp-content/uploads/2018/07/gcse4.png" alt="magento google custom search" width="568" height="428" class="aligncenter wp-image-1841 size-full" /></li>
  	<li><strong>Replace the magento search box code with Google custom search box code. </strong> For this step you might need the help of your deveoper. <span><span><span>The template for Magento search box can be found at <em>app/design/frontend/base/default/template/catalogsearch/form.mini.phtml</em>. We will change this so it will call the google search code. Change this from:</span></span></span>
 <pre>&lt;form id="search_mini_form" action="&lt;?php echo $this-&gt;helper('catalogsearch')-&gt;getResultUrl() ?&gt;" method="get"&gt;
 &lt;div class="form-search"&gt;
 &lt;label for="search"&gt;&lt;!--?php echo $this---&gt;__('Search:') ?&gt;&lt;/label&gt;
 &lt;input id="search" class="input-text" name="&lt;?php echo $this-&gt;helper('catalogsearch')-&gt;getQueryParamName() ?&gt;" type="text" value="&lt;?php echo $this-&gt;helper('catalogsearch')-&gt;getEscapedQueryText() ?&gt;"&gt;
-&lt;button class="button" title="&lt;?php echo $this-&gt;__('Search') ?&gt;"&gt;&lt;span&gt;&lt;span&gt;&lt;!--?php echo $this---&gt;__('Search') ?&gt;&lt;/span&gt;&lt;/span&gt;&lt;/button&gt;</pre>
-&lt;script type="text/javascript"&gt;&lt;/script&gt;&lt;/div&gt; &lt;/form&gt; to the code that you copied from Google custom search control panel</li>
- 	<li><strong>That's it!</strong> you have added google custom search to your magento store. Here are some screenshots of the search user interface which you can further change from your control panel. Here is a <a href="https://cse.google.com/cse/create/getcode?cx=012278024424817052234%3Aocuhgvaknyy" target="_blank" rel="noopener">demo link</a> built on the data of cosjj ( a magento store).
-
-[caption id="attachment_1842" align="alignnone" width="935"]<img src="https://blog.expertrec.com/wp-content/uploads/2018/07/gcse5.png" alt="magento google custom search" width="935" height="522" class="wp-image-1842 size-full" /> magento google custom search[/caption]</li>
+&lt;button class="button" title="&lt;?php echo $this-&gt;__('Search') ?&gt;"&gt;&lt;span&gt;&lt;span&gt;&lt;!--?php echo $this---&gt;__('Search') ?&gt;&lt;/span&gt;&lt;/span&gt;&lt;/button&gt;
+&lt;script type="text/javascript"&gt;&lt;/script&gt;&lt;/div&gt; &lt;/form&gt;</pre> to the code that you copied from Google custom search control panel</li>
+ 	<li><strong>That's it!</strong> you have added google custom search to your magento store. Here are some screenshots of the search user interface which you can further change from your control panel. Here is a <a href="https://cse.google.com/cse/create/getcode?cx=012278024424817052234%3Aocuhgvaknyy" target="_blank" rel="noopener">demo link</a> built on the data of cosjj ( a magento store).<img src="https://blog.expertrec.com/wp-content/uploads/2018/07/gcse5.png" alt="magento google custom search" width="935" height="522" class="alignnone wp-image-1842 size-full" /></li>
 </ol>
 </li>
 </ol>
