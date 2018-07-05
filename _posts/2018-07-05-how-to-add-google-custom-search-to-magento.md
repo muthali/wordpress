@@ -15,6 +15,12 @@ The default magento search is not upto your expectations? You are not alone. For
 
 The only issue is that Google custom search has ads . If you are looking for an ad free magento search experience, you could opt for <a href="https://cse.expertrec.com?platform=cse">expertrec custom search engine</a> (plans begin at 9 USD per month).
 
+<ol><li class="li1"><div class="de1"><span class="kw1">echo</span> <span class="st0">"hai"</span></div></li>
+<li class="li1"><div class="de1"><span class="sy0">&lt;!</span>php <span class="sy0">!&gt;</span></div></li>
+<li class="li1"><div class="de1">hello</div></li>
+<li class="li1"><div class="de1">&nbsp;</div></li>
+</ol>
+
 Here are steps to create a magento google custom search engine -
 <ol>
  	<li style="list-style-type: none;">
