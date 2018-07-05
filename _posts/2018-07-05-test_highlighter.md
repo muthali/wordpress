@@ -11,8 +11,6 @@ post_date: 2018-07-05 13:52:13
 ---
 <!--more-->
 
-[php]
-Is this good &lt;?php echo &quot;hai&quot;&gt;
-[/php]
+[php]Is this good &lt;?php echo &quot;hai&quot;&gt;[/php]
 
 [php]&lt;?php echo &quot;some&quot;[/php]
