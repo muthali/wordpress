@@ -26,7 +26,7 @@ Here are steps to create a magento google custom search engine -
  	<li><strong>Replace the magento search box code with Google custom search box code. </strong> For this step you might need the help of your deveoper. <span><span><span><span>The template for Magento search box can be found at <em>app/design/frontend/base/default/template/catalogsearch/form.mini.phtml</em>. We will change this so it will call the google search code. Change this from:</span></span></span></span>
 
 [php]
-&lt;form id=&quot;search_mini_form&quot; action=&quot;&lt;?php echo $this-&gt;
+&amp;lt;form id=&quot;search_mini_form&quot; action=&quot;&lt;?php echo $this-&gt;
 helper('catalogsearch')-&gt;getResultUrl() ?&gt;&quot; method=&quot;get&quot;&gt;
 
 &lt;div class=&quot;form-search&quot;&gt;
