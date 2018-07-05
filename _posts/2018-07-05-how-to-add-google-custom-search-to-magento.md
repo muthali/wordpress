@@ -36,9 +36,9 @@ helper('catalogsearch')-&gt;getResultUrl() ?&gt;" method="get"&gt;
 
 &lt;/form&gt;</pre>
 
-[html]
+[php]
 echo $this;
-[/html]
+[/php]
 
 to the code that you copied from Google custom search control panel</li>
  	<li><strong>That's it!</strong> you have added google custom search to your magento store. Here are some screenshots of the search user interface which you can further change from your control panel. Here is a <a href="https://cse.google.com/cse/create/getcode?cx=012278024424817052234%3Aocuhgvaknyy" target="_blank" rel="noopener">demo link</a> built on the data of cosjj ( a magento store).<img src="https://blog.expertrec.com/wp-content/uploads/2018/07/gcse5.png" alt="magento google custom search" width="935" height="522" class="alignnone wp-image-1842 size-full" /></li>
