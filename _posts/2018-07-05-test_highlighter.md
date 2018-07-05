@@ -9,8 +9,8 @@ permalink: >
 published: true
 post_date: 2018-07-05 13:52:13
 ---
-[code]
+<code>
 [php]
 Is this good &lt;?php echo &quot;hai&quot;&gt;
 [/php]
-[/code]
+</code>
