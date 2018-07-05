@@ -16,5 +16,5 @@ post_date: 2018-07-05 13:52:13
 [php]&lt;?php echo &quot;hai&quot;; ?&gt;
 &lt;?php echo &quot;hai&quot;; ?&gt;[/php]<code></code>
 
-[php]&lt;pre&gt;&amp;lt;?php echo &quot;hai&quot;; ?&amp;gt;
-&amp;lt;?php echo &quot;hai&quot;; ?&amp;gt;&lt;/pre&gt;[/php]
+[php]&amp;lt;?php echo &quot;hai&quot;; ?&amp;gt;
+&amp;lt;?php echo &quot;hai&quot;; ?&amp;gt;[/php]
