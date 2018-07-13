@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-07-06 12:50:11
 ---
-Expertrec's magento custom search module adds search autocomplete, spell correct features to your magento store. Here are some screen shots of the search features built using expertrec magento custom search module. Price begins at 9 USD per month (paid annually).
+<a href="https://cse.expertrec.com?platform=cse">Expertrec's magento custom search module</a> adds search autocomplete, spell correct features to your magento store. Here are some screen shots of the search features built using expertrec magento custom search module. Price begins at 9 USD per month (paid annually).
 
 <strong>Autocomplete</strong>- Search autocomplete or typeahead to make sure your customers find the right products within the shortest time<img src="https://blog.expertrec.com/wp-content/uploads/2018/07/magento-custom-search-module.jpg" alt="magento custom search module" width="501" height="496" class="aligncenter wp-image-1904 size-full" />
 
